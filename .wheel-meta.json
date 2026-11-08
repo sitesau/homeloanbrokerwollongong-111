@@ -1,0 +1,22 @@
+{
+  "wheel_id": 864,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-111",
+  "project": "mortgage-broker-wollongong-first-home-f97f8db1c0e49d0305deaa514",
+  "parent_t1_ref": "homeloanbrokerwollongong-155",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage broker wollongong first home",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-broker-wollongong-first-home-f97f8db1c0e49d0305deaa514/",
+  "tier": "T2",
+  "writeback_nonce": "25d4f8260e52b804",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/mortgage-broker-wollongong-refinancing-2a9742c0288a9dc7d9e9ddbc/",
+      "anchor": "Mortgage Broker Wollongong Refinancing: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
